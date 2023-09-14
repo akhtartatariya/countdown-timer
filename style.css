@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-image: url(assets/snow.jpg);
+  background-image: url(/assets/pic.jpg);
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -22,6 +22,10 @@ h1{
   font-weight:lighter;
   font-size: 3.5rem;
   margin-top: -10rem;
+  
+}
+.color{
+  color: white;
 }
 .big-text{
   font-weight: bolder;
